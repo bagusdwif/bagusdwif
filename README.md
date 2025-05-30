@@ -2,7 +2,9 @@
 <h1 align="center">
    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWdndmowMDRsemVsOHZlYjJzdG93N2szYWxlOXpmMmMxeXc1MmhvZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11lxCeKo6cHkJy/giphy.gif" width="150"> 
 </h1>
-<h4 align="center">I'm Just Doing What I Like Doing</h4>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Impact&size=40&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I+do+whatever+I+like;" />
+</h1>
 
 ###
 <br>
